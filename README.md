@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -29,7 +29,7 @@
   <ul>
     <li>Make sure you have Flutter installed. If not, follow the <a href="https://flutter.dev/docs/get-started/install">official installation guide</a>.</li>
     <li>Clone the repository:<br>
-      <code>git clone https://github.com/mihretgold/smart-fire-alarm.git</code></li>
+      <code>git clone https://github.com/MahletGizew/smart-fire-alarm.git</code></li>
     <li>Navigate to the project directory:<br>
       <code>cd smart-fire-alarm</code></li>
   </ul>
